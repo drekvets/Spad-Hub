@@ -13,6 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/drekvets/Spad-Hub/mai
 ## Features
 
 - Auto Farm (Quest + Kill)
+- Auto Rebirth (Lv.22000+)
 - Auto Stats
 - Auto Open Chests (Diamond / Moon)
 - Auto Potions (X2 Rebirth, EXP, Lucky, Item, Diamond)
